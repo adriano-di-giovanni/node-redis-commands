@@ -1,0 +1,10 @@
+{
+    "env": {
+        "node": true
+    },
+    "rules": {
+        "strict": [ 2, "global"],
+        "quotes": [ 2, "single" ],
+        "space-unary-ops": 0
+    }
+}

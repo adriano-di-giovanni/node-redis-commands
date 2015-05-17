@@ -1,0 +1,11 @@
+/* eslint-env node */
+/* eslint quotes: 0, strict: 0 */
+
+/**
+ * Generated using `npm run report`
+ *
+ * Redis version: ?
+ * Date: ?
+ */
+
+module.exports = ?;
