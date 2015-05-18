@@ -1,6 +1,6 @@
 {
   "name": "node-redis-commands",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Node.js module reporting all commands implemented by Redis.",
   "main": "index.js",
   "directories": {
@@ -20,5 +20,19 @@
     "report": "node maint/report"
   },
   "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriano-di-giovanni/node-redis-commands.git"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "commands",
+    "type"
+  ],
+  "bugs": {
+    "url": "https://github.com/adriano-di-giovanni/node-redis-commands/issues"
+  },
+  "homepage": "https://github.com/adriano-di-giovanni/node-redis-commands"
 }

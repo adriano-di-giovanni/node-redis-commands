@@ -113,6 +113,10 @@ report(client, asArray, callback);
 
 ## Change Log
 
+### 0.1.2
+
+Just changed package definition
+
 ### 0.1.1
 
 Added `Type` constants
