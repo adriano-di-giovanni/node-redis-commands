@@ -113,6 +113,10 @@ report(client, asArray, callback);
 
 ## Change Log
 
+### 0.1.3
+
+Update compiled report to Redis 3.0.1
+
 ### 0.1.2
 
 Just changed package definition
