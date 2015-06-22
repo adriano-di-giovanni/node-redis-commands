@@ -113,6 +113,10 @@ report(client, asArray, callback);
 
 ## Change Log
 
+### 0.1.5 (2015-06-22)
+
+Fix redis issue [#2598](https://github.com/antirez/redis/issues/2598)
+
 ### 0.1.4
 
 Fix type for commands operating on keys of type hash

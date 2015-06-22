@@ -1,6 +1,6 @@
 {
   "name": "node-redis-commands",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A Node.js module reporting all commands implemented by Redis.",
   "main": "index.js",
   "directories": {
