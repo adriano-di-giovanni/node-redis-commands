@@ -9,6 +9,8 @@ The module gives you access to
 
 Reports contain info from Redis [COMMAND](http://redis.io/commands/command) plus data types each command operates on (if applicable).
 
+I developed it as a utility for managing key-to-client binding in [node-redis-keychain](https://github.com/adriano-di-giovanni/node-redis-keychain).
+
 ## Installation
 
 ```
